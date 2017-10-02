@@ -5,3 +5,5 @@ Creating a conflict
 
 I am trying to make a conflict in README.md
 
+New changes after branch creation.
+
